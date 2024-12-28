@@ -58,8 +58,7 @@ This project focuses on analyzing data for Vrinda Store to uncover trends, under
 ---
 
 ## 🔗 Live Preview  
-![Dashboard Preview](<img width="793" alt="Vrinda Store Report 2022 Dashboard " src="https://github.com/user-attachments/assets/a38de440-393e-4ca8-833d-c89ed0932840" />
-)  
+<img width="793" alt="Vrinda Store Report 2022 Dashboard " src="https://github.com/user-attachments/assets/01d4b1b1-a23e-4c3e-b7bb-66b91c916355" />
 
 ---
 
